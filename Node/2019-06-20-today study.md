@@ -1,3 +1,11 @@
+---
+
+layout: post
+
+title: "post name"
+
+---
+
 # 3.4.6 process
 
 1. 3.5 노드 내장 모듈
